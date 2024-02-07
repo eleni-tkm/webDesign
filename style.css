@@ -11,8 +11,34 @@ body {
 	position: absolute;
 	top:2px;
 	left:2px;
-	width: 10%;
+	width: 7%;
 }
+
+.container{
+	display:flex;
+	justify-content: flex-end;
+	margin-top:-23px;
+	cursor: pointer;
+
+}
+
+span{
+	margin-right:5px;
+}
+
+.container span:hover {
+		background-color: rgba(113, 103, 137, 0.3);
+		border-radius: 30px;
+		box-shadow: 0.22rem 0.22rem #484848, -0.22rem -0.22rem #C0C0C0;
+		margin: 22px;
+
+	  
+	  
+}
+
+
+
+
 
 .wow.bounceInUp{
 	
@@ -117,19 +143,23 @@ h1 {
 .left.card{
 	display: block;
 	 width: 100%;
-	 margin-bottom: 30px;
+	 text-align: center;
+	 
+
 	
 }
 
 .right.card{
 	display: block;
 	 width: 100%;
+	 text-align: center;
+	 margin-right:-10px;
 	
 }
 
 .tile-image {
-  
-  display: inline;
+margin-left:10%
+
 
 }
 
@@ -142,5 +172,24 @@ h1 {
 
 	
 }
+
+.wow.bounceInUp{
+	display:none;
+}
+
+.container{
+	
+	justify-content: center;
+	
+}
+
+footer>p {
+	font-size:0.7rem;
+}
+
+footer > i {
+	font-size: 13px !important;
+}
+
 
 }

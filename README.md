@@ -1,4 +1,6 @@
 # Simple Webpage with custom menu
 
-- CSS box shadows
-- CSS animations
+- CSS Box shadows
+- CSS Animations
+- CSS Selectors
+- CSS Media Queries

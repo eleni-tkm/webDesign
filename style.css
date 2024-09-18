@@ -165,7 +165,7 @@ margin-left:2%;
 }
 
 .i{
-
+	display: none;
 	left: 51.6%;
 	top:36.2%;
 	border: 2px solid #191970;

@@ -1,2 +1,4 @@
-# webDesign
-Project: "Web Design Agency" udemy courses
+# Simple Webpage with custom menu
+
+- CSS box shadows
+- CSS animations

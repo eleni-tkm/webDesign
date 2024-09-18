@@ -114,6 +114,7 @@ display:inline-block;
 }
 
 .i{
+	display: none;
 	position: absolute;
 	border: 3px solid black;
 	height: 13px;
